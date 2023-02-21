@@ -244,7 +244,7 @@ tr.row td{
   }
   /*css for footer of webpage */
   .footer{
-    background-image: url('http://homepages.cs.ncl.ac.uk/harold.fellermann/csc8018/ocean_cleanup/resources/ocean.jpg');
+    background-image: url('ocean.jpg');
     width:100vw;
     height:35vh;
     background-size: cover;
